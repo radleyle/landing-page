@@ -3881,7 +3881,7 @@ input, select, textarea {
 	}
 
 		#intro p {
-			font-size: 0.75em;
+			font-size: 1.25em;
 		}
 
 			@media screen and (max-width: 980px) {
@@ -3907,10 +3907,3 @@ input, select, textarea {
 			}
 
 		}
-.pictures{
-	width: 40%;
-	height: 60%;
-	position: absolute;
-	bottom: 0;
-	right: 100px;
-}
