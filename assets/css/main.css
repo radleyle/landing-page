@@ -3907,3 +3907,10 @@ input, select, textarea {
 			}
 
 		}
+.pictures{
+	width: 40%;
+	height: 60%;
+	position: absolute;
+	bottom: 0;
+	right: 100px;
+}
